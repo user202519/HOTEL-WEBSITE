@@ -1,2 +1,1 @@
-# my-first-website
-My first web, while learning to design website
+Hello! My name is Valentine Achieng, a student and a software engineer, this is my first web, am training on how to design web and I use git hub to store my projects, am working towards becoming a best web developer. I enjoy codding and creating systems. I would like to become  not just an  IT expert but an excellent software engineer,
